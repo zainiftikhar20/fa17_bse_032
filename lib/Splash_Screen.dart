@@ -35,7 +35,7 @@ class _MyAppState extends State<MyApp> {
         ),
 
 
-        image: new Image.asset('image.jpg'),
+        image: new Image.asset('image.png'),
 
         backgroundColor: Colors.white,
         styleTextUnderTheLoader: new TextStyle(),
